@@ -14,9 +14,6 @@ I'm Conrad, developer at Osec BV, living in Stolwijk, the Netherlands. I'm also 
 [<img align="left" alt="conradmaayen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="conradmaayen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
----
-
 [website]: https://maayen.nl
 [twitter]: https://twitter.com/conradmaayen
 [linkedin]: https://linkedin.com/in/conradmaayen
